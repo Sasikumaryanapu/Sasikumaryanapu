@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sasi Kumar</h1>
-<h3 align="center">Junior Fullsatck developer from India</h3>
+<h3 align="center">Fullsatck developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasikumaryanapu&label=Profile%20views&color=0e75b6&style=flat" alt="sasikumaryanapu" /> </p>
 
