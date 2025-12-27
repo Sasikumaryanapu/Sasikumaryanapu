@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasikumaryanapu&label=Profile%20views&color=0e75b6&style=flat" alt="sasikumaryanapu" /> </p>
 
 
-- 🔭 I’m currently working on **Flockwise**
+- 🔭 I’m currently working on **NCEL E-Procurement**
 
 - 🌱 I’m currently learning **AWS Cloud**
 
-- 👨‍💻 All of my projects are available at [https://sasikumaryanapu.github.io/sasi_portfolio/](https://sasikumaryanapu.github.io/sasi_portfolio/)
+- 👨‍💻 All of my projects are available at [https://sasikumaryanapu.github.io/sasi-portfolio/](https://sasikumaryanapu.github.io/sasi-portfolio/)
 
-- 💬 Ask me about **REACTJS,NODEJS and MONGODB**
+- 💬 Ask me about **REACTJS, NEXTJS, NODEJS and MONGODB**
 
 - 📫 How to reach me **sasikumaryanapu16@gmail.com**
 
